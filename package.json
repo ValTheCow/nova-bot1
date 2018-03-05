@@ -1,0 +1,8 @@
+{
+  "name": "nova-bot",
+  "version": "1.0.0",
+  "description": "Testing Discord bot",
+  "main": "bot.js",
+  "author": "Val",
+  "dependencies": {}
+}
